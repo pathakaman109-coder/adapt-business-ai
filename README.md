@@ -23,13 +23,11 @@ This project is currently under active development.
 
 ## Vision
 
-one AI dashboard to manage sales, customers, accounting, GST, and business operations.
+One AI dashboard to manage sales, customers, accounting, GST, and business operations.
 
 ## Screenshot
-```text
-screenshot-dashboard.jpg
-assets/images/
 
+Add your beta dashboard screenshot here.
 
 ## Roadmap
 
